@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Producer.csproj",
-      "projectName": "Producer",
-      "projectPath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Producer.csproj",
+      "projectUniqueName": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
+      "projectName": "Consumer",
+      "projectPath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
       "packagesPath": "C:\\Users\\SAFAYAT\\.nuget\\packages\\",
-      "outputPath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\obj\\",
+      "outputPath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

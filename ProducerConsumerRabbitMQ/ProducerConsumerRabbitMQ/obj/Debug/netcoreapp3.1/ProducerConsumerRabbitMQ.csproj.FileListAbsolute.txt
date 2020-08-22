@@ -1,0 +1,16 @@
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.exe
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.csprojAssemblyReference.cache
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.AssemblyInfoInputs.cache
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.AssemblyInfo.cs
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.deps.json
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.runtimeconfig.json
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.runtimeconfig.dev.json
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.dll
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.pdb
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.csproj.CoreCompileInputs.cache
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.csproj.CopyComplete
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.dll
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.pdb
+D:\WORKS\Microservice and RabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\ProducerConsumerRabbitMQ\obj\Debug\netcoreapp3.1\ProducerConsumerRabbitMQ.genruntimeconfig.cache

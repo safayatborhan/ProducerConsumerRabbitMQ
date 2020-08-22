@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6ZTnuSLn+OwhL7j3nndyea9811v6mIhlfKwbNkkflbcKrEyMjOCUOI588r6UoqBCmqc255z+RPzPMbAjq3bPw==",
+  "dgSpecHash": "gdV1W8dLyupj34TRu4ylcgp/Bo9suz6Ie5BARwt4ESlM9vE4M6heh9/eIhmqiPCHGWZgGlWL1TwsPsrRNjobRQ==",
   "success": true,
-  "projectFilePath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Producer.csproj",
+  "projectFilePath": "D:\\WORKS\\Microservice and RabbitMQ\\ProducerConsumerRabbitMQ\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAFAYAT\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\SAFAYAT\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
